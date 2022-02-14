@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1829.786" height="734.496" viewBox="0 0 1829.786 734.496">
+  <defs>
+    <pattern id="pattern" width="1" height="1" patternTransform="matrix(-1, 0, 0, 1, 1378.838, 0)" viewBox="0 0 689.419 627.492">
+      <image preserveAspectRatio="none" width="689.419" height="627.492" xlink:href="Group%201720-image.png"/>
+    </pattern>
+  </defs>
+  <g id="Group_1720" data-name="Group 1720" transform="translate(-864.29 -9196.227)">
+    <g id="Group_1679" data-name="Group 1679" transform="translate(863.521 9193.072)">
+      <path id="Path_232" data-name="Path 232" d="M31.024,2.265s-11.14,23.971-6.386,30.114c0,0-24.094-1.529-24.638-22.021C0,10.358,6.94-5.825,31.024,2.265Z" transform="matrix(1, -0.017, 0.017, 1, 902.769, 331.653)" fill="#d2d2d3"/>
+      <path id="Path_233" data-name="Path 233" d="M73.663,32.872s-1.588,17.838-46.368,16.05-15.443,28.624,0,28.026C12.225,75.264-2.337,64.169.314,54.915c0,0,7.963-29.349,24.328-49.847S73.663,32.872,73.663,32.872Z" transform="matrix(1, -0.017, 0.017, 1, 899.336, 287.137)" fill="#9f9fa0"/>
+      <path id="Path_234" data-name="Path 234" d="M24.748,248.527H821.111c24.616,1.227,47.584,4.845,63.227,19.114L906.222,47.9c0-33.44-39-48.923-77.614-47.848H0Z" transform="matrix(1, -0.017, 0.017, 1, 84.687, 66.551)" fill="#fff"/>
+      <g id="Group_1678" data-name="Group 1678" transform="matrix(1, -0.017, 0.017, 1, 0, 4.821)">
+        <path id="Path_235" data-name="Path 235" d="M0,30.114S11.14,6.143,6.385,0c0,0,24.094,1.529,24.639,22.021C31.024,22.021,24.084,38.206,0,30.114Z" transform="translate(61.868 0.008)" fill="#d2d2d3"/>
+        <path id="Path_236" data-name="Path 236" d="M0,44.085S1.586,26.246,46.368,28.037,61.812-.587,46.368.009C61.437,1.693,76,12.789,73.348,22.044c0,0-7.963,29.349-24.328,49.845S0,44.085,0,44.085Z" transform="translate(21.885 0)" fill="#9f9fa0"/>
+        <path id="Path_237" data-name="Path 237" d="M276.237,267.589H77.614C39,268.664,0,253.181,0,219.741L21.885,0C37.524,14.269,60.5,17.887,85.109,19.114h166.38" transform="translate(0 44.084)" fill="#fff"/>
+      </g>
+      <text id="WORLD_MAP" data-name="WORLD MAP" transform="translate(114.433 173.561)" fill="#333" font-size="103" font-family="UncialAntiqua-Regular, Uncial Antiqua"><tspan x="0" y="0">WORLD MAP</tspan></text>
+      <text id="Explore_the_beautiful_world_of_Temeris_where_your_adventure_awaits_" data-name="Explore the beautiful world of Temeris, where 
+your adventure awaits!" transform="translate(124.38 200.497)" fill="#1a1a1a" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">Explore the beautiful world of Temeris, where </tspan><tspan x="0" y="46">your adventure awaits!</tspan></text>
+    </g>
+    <rect id="Toad_card" data-name="Toad card" width="689.419" height="627.492" transform="translate(2004.657 9303.23)" fill="url(#pattern)"/>
+  </g>
+</svg>

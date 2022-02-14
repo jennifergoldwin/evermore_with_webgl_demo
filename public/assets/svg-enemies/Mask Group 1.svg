@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1645" viewBox="0 0 1920 1645">
+  <defs>
+    <clipPath id="clip-path-enemies">
+      <rect id="Rectangle_232" data-name="Rectangle 232" width="1920" height="1645" transform="translate(0 6180)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <pattern id="pattern" width="1" height="1" patternTransform="matrix(-1, 0, 0, 1, 2450.054, 0)" viewBox="0 0 1225.027 1020.366">
+      <image preserveAspectRatio="none" width="1225.027" height="1020.366" xlink:href="Mask%20Group%201-image.png"/>
+    </pattern>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2c3531" stop-opacity="0.02"/>
+      <stop offset="0.281" stop-color="#2c3531"/>
+      <stop offset="0.527" stop-color="#2c3531" stop-opacity="0.992"/>
+      <stop offset="0.635" stop-color="#2c3531" stop-opacity="0.867"/>
+      <stop offset="1" stop-color="#2c3531" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pattern-enemies-2" width="1" height="1" patternTransform="matrix(-1, 0, 0, 1, 3818.422, 0)" viewBox="0 0 1909.211 859.145">
+      <use preserveAspectRatio="none" xlink:href="#image-enemies"/>
+    </pattern>
+    <pattern id="pattern-enemies-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 520 807">
+      <image width="520" height="807" xlink:href="/public/assets/svg-enemies/Mask%20Group%201-image3.png"/>
+    </pattern>
+    <pattern id="pattern-enemies-4" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 882 863">
+      <image width="882" height="863" xlink:href="/public/assets/svg-enemies/Mask%20Group%201-image4.png"/>
+    </pattern>
+    <pattern id="pattern-enemies-5" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1165 929">
+      <image width="1165" height="929" xlink:href="/public/assets/svg-enemies/Mask%20Group%201-image5.png"/>
+    </pattern>
+    <image id="image-enemies" preserveAspectRatio="none" width="1909.211" height="859.145" xlink:href="/public/assets/svg-enemies/Mask%20Group%201-image2.png"/>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0 -6180)" clip-path="url(#clip-path-enemies)">
+    <g id="Group_1719" data-name="Group 1719" transform="translate(-818.798)">
+      <rect id="dread_trista" data-name="dread trista" width="1225.027" height="1020.366" transform="translate(1639.751 6440.583)" fill="url(#pattern-enemies)"/>
+      <use id="clouds_left" data-name="clouds left" transform="translate(1669.189 6852.808)" xlink:href="#image"/>
+      <rect id="blends2" width="1922.811" height="630.045" transform="translate(819.599 7687.082)" fill="url(#linear-gradient)"/>
+      <rect id="clouds_left-2" data-name="clouds left" width="1909.211" height="859.145" transform="translate(490.425 6823.788) rotate(3)" fill="url(#pattern-enemies-2)"/>
+      <rect id="blends2-2" data-name="blends2" width="1922.811" height="695.398" transform="translate(819.599 7153.024)" fill="url(#linear-gradient)"/>
+      <rect id="Image_15" data-name="Image 15" width="780.361" height="1210.723" transform="translate(819.772 6409.975)" fill="url(#pattern-enemies-3)"/>
+      <text id="PLAY_TO_EARN" data-name="PLAY TO EARN" transform="translate(1778.798 7448)" fill="#fff" font-size="80" font-family="UncialAntiqua-Regular, Uncial Antiqua"><tspan x="-649.922" y="79">PLAY TO EARN</tspan></text>
+      <text id="Play_daily_to_earn_solid_weekly_rewards._Utilise_your_heroes_well_in_earning_income_for_yourself_and_for_others._Invest_in_your_party_well_and_they_will_take_good_care_of_you." data-name="Play daily to earn solid weekly rewards. Utilise your heroes well in earning income for yourself, and for others. Invest in your party well and they will take good care of you." transform="translate(1778.798 7553)" fill="#fff" font-size="20" font-family="Merriweather-Regular, Merriweather"><tspan x="-839.22" y="20">Play daily to earn solid weekly rewards. Utilise your heroes well in earning income for </tspan><tspan x="-831.06" y="40">yourself, and for others. Invest in your party well and they will take good care of you.</tspan></text>
+      <rect id="Image_20" data-name="Image 20" width="369.654" height="284.899" transform="translate(989.108 7520.635)" fill="url(#pattern-enemies-4)"/>
+      <rect id="Image_18" data-name="Image 18" width="339.019" height="246.095" transform="translate(759.351 7520.635)" fill="url(#pattern-enemies-5)"/>
+      <rect id="Image_19" data-name="Image 19" width="370.675" height="242.011" transform="translate(1298.514 7540.037)" fill="url(#pattern-enemies-5)"/>
+      <text id="_1280x757" data-name="1280x757" transform="translate(2995.653 325.096)" fill="#707070" font-size="28" font-family="ArialMT, Arial"><tspan x="0" y="0">1280x757</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1927" height="3500" viewBox="0 0 1927 3500">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_348" data-name="Rectangle 348" width="1927" height="3500" transform="translate(818.798 2466)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 2400 1080">
+      <image width="2400" height="1080" xlink:href="Mask%20Group%201-image.png"/>
+    </pattern>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2c3531"/>
+      <stop offset="0.527" stop-color="#2c3531" stop-opacity="0.992"/>
+      <stop offset="0.635" stop-color="#2c3531" stop-opacity="0.867"/>
+      <stop offset="1" stop-color="#2c3531" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.976" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2c3531"/>
+      <stop offset="0.532" stop-color="#2c3531" stop-opacity="0.71"/>
+      <stop offset="1" stop-color="#2c3531" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pattern-2" width="1" height="1" viewBox="-2.403 -137.976 536.944 1046.895">
+      <image preserveAspectRatio="none" width="536.944" height="1046.895" xlink:href="Mask%20Group%201-image4.png"/>
+    </pattern>
+    <pattern id="pattern-3" width="1" height="1" viewBox="0 -97.06 277.87 769.085">
+      <image preserveAspectRatio="none" width="277.87" height="769.085" xlink:href="Mask%20Group%201-image5.png"/>
+    </pattern>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d9b08c" stop-opacity="0"/>
+      <stop offset="0.276" stop-color="#d9b08c" stop-opacity="0.659"/>
+      <stop offset="0.374" stop-color="#d9b08c" stop-opacity="0.725"/>
+      <stop offset="0.502" stop-color="#d9b08c" stop-opacity="0.878"/>
+      <stop offset="1" stop-color="#d9b08c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="0" stop-color="#672143"/>
+      <stop offset="1" stop-color="#545454" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pattern-4" width="1" height="1" viewBox="-94.646 0.662 5354.188 1945.995">
+      <image preserveAspectRatio="xMidYMid slice" width="4585.95" height="2063.677" xlink:href="Mask%20Group%201-image15.png"/>
+    </pattern>
+    <linearGradient id="linear-gradient-5" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#672143"/>
+      <stop offset="1" stop-color="#341122"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.567" y1="1" x2="0.555" y2="-0.178" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.463"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="0.222" stop-color="#151515" stop-opacity="0.51"/>
+      <stop offset="0.522" stop-color="#292929"/>
+      <stop offset="0.798" stop-color="#151515" stop-opacity="0.514"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pattern-5" width="1" height="1" patternTransform="matrix(-1, 0, 0, 1, 2411.063, 0)" viewBox="0 0 1205.532 402.536">
+      <use preserveAspectRatio="none" xlink:href="#image-2"/>
+    </pattern>
+    <image id="image" width="629.024" height="62.228" xlink:href="Mask%20Group%201-image14.png"/>
+    <image id="image-2" preserveAspectRatio="none" width="1205.532" height="402.536" xlink:href="Mask%20Group%201-image17.png"/>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-818.798 -2466)" clip-path="url(#clip-path)">
+    <rect id="grounds" width="2842.86" height="788.894" transform="translate(333.535 1702.167)" fill="url(#pattern)"/>
+    <image id="ground_2" data-name="ground 2" width="2580.427" height="692.683" transform="translate(573.503 2407.776)" xlink:href="Mask%20Group%201-image2.png"/>
+    <rect id="blends2" width="1922.811" height="771.984" transform="translate(819.599 2389.396)" fill="url(#linear-gradient)"/>
+    <image id="forest_background_combat" data-name="forest background combat" width="1922.562" height="865.153" transform="translate(819.772 3323.179)" xlink:href="Mask%20Group%201-image3.png"/>
+    <rect id="forest_color_blend" data-name="forest color blend" width="1925.566" height="884.679" transform="translate(819.772 3233.059)" fill="url(#linear-gradient-2)"/>
+    <rect id="background_wood_right" data-name="background wood right" width="536.944" height="1046.895" transform="matrix(1, 0.017, -0.017, 1, 2344.468, 2917.107)" fill="url(#pattern-2)"/>
+    <rect id="background_wood_left" data-name="background wood left" width="277.87" height="769.085" transform="translate(1108.156 3174.481)" fill="url(#pattern-3)"/>
+    <image id="background_wood_center" data-name="background wood center" width="226.802" height="705.885" transform="translate(1874.177 3197.011)" xlink:href="Mask%20Group%201-image6.png"/>
+    <image id="background_tree_left" data-name="background tree left" width="800.567" height="772.052" transform="translate(1202.031 3085.112)" xlink:href="Mask%20Group%201-image7.png"/>
+    <image id="background_tree_right" data-name="background tree right" width="794.559" height="903.195" transform="translate(1928.918 2914.635)" xlink:href="Mask%20Group%201-image8.png"/>
+    <image id="ground" width="2319.841" height="731.475" transform="translate(621.133 3565.001)" xlink:href="Mask%20Group%201-image9.png"/>
+    <image id="front_tree_left" data-name="front tree left" width="865.929" height="1178.285" transform="translate(467.304 2669.188)" xlink:href="Mask%20Group%201-image10.png"/>
+    <image id="front_tree_right" data-name="front tree right" width="1024.206" height="1320" transform="translate(2202.225 2569.116)" xlink:href="Mask%20Group%201-image11.png"/>
+    <image id="bush" width="302.258" height="220.098" transform="translate(1504.785 3564.73)" xlink:href="Mask%20Group%201-image12.png"/>
+    <image id="stone" width="177.679" height="81.701" transform="translate(1524.187 3712.796)" xlink:href="Mask%20Group%201-image13.png"/>
+    <use id="Image_43" data-name="Image 43" transform="translate(899.248 4029.35)" opacity="0.597" xlink:href="#image"/>
+    <use id="Image_44" data-name="Image 44" transform="translate(1115.73 3882.305)" opacity="0.597" xlink:href="#image"/>
+    <use id="Image_45" data-name="Image 45" transform="translate(781.816 3873.115)" opacity="0.597" xlink:href="#image"/>
+    <rect id="blend_sand" data-name="blend sand" width="1924.853" height="734.201" transform="translate(819.599 4064.069)" fill="url(#linear-gradient-3)"/>
+    <rect id="rectangle_for_exclusive_heroes" data-name="rectangle for exclusive heroes" width="1924.853" height="1442.874" transform="translate(2744.452 5749.974) rotate(180)" fill="url(#linear-gradient-4)"/>
+    <rect id="orange_sky" data-name="orange sky" width="4585.95" height="1666.776" transform="translate(-532.394 4298.931)" fill="url(#pattern-4)"/>
+    <rect id="bar_exclusive" data-name="bar exclusive" width="1922.811" height="351.273" transform="translate(819.599 4388.792)" opacity="0.573" fill="url(#linear-gradient-5)"/>
+    <image id="cloud" width="6654.281" height="721.948" transform="translate(-1633.185 5409.934)" xlink:href="Mask%20Group%201-image16.png"/>
+    <rect id="Rectangle_249" data-name="Rectangle 249" width="1922.811" height="689.271" transform="translate(819.599 5126.057)" fill="url(#linear-gradient-6)"/>
+    <rect id="Rectangle_347" data-name="Rectangle 347" width="1922.811" height="143.981" transform="translate(819.599 6141.072)" opacity="0.503" fill="url(#linear-gradient-7)"/>
+    <use id="Image_53" data-name="Image 53" transform="translate(434.628 4083.47)" xlink:href="#image-2"/>
+    <rect id="Image_54" data-name="Image 54" width="1205.532" height="402.536" transform="translate(2120.711 4101.967)" fill="url(#pattern-5)"/>
+    <image id="Image_55" data-name="Image 55" width="564.692" height="168.441" transform="translate(1783.557 4207.028)" xlink:href="Mask%20Group%201-image18.png"/>
+    <image id="Image_56" data-name="Image 56" width="303.279" height="120.648" transform="translate(1504.785 4256.043)" xlink:href="Mask%20Group%201-image19.png"/>
+    <image id="Layer_1" data-name="Layer 1" width="1601.151" height="173.715" transform="translate(1079.99 5817.37)" xlink:href="Mask%20Group%201-image20.png"/>
+  </g>
+</svg>

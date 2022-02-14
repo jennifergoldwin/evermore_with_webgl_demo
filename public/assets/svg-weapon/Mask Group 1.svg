@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1032" viewBox="0 0 1920 1032">
+  <defs>
+    <clipPath id="clip-path-weapon">
+      <rect id="Rectangle_427" data-name="Rectangle 427" width="1920" height="1032" transform="translate(0 10679)" fill="rgba(255,255,255,0.28)" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-weapon" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#030303" stop-opacity="0.937"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-weapon-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.667"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-weapon-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0 -10679)" clip-path="url(#clip-path-weapon)">
+    <g id="Group_1719" data-name="Group 1719" transform="translate(-818.798)">
+      <rect id="Rectangle_355" data-name="Rectangle 355" width="1922.811" height="894.124" transform="translate(2743.941 11232.619) rotate(180)" fill="url(#linear-gradient-weapon)"/>
+      <image id="Image_34" data-name="Image 34" width="1922.811" height="694.294" transform="translate(819.599 10700.473)" xlink:href="/public/assets/svg-weapon/Mask%20Group%201-image.png"/>
+      <rect id="Rectangle_425" data-name="Rectangle 425" width="1922.811" height="515.677" transform="translate(819.599 10939.421)" fill="url(#linear-gradient-weapon-2)"/>
+      <image id="Image_35" data-name="Image 35" width="2301.655" height="451.474" transform="translate(631.708 11035.408)" xlink:href="/public/assets/svg-weapon/Mask%20Group%201-image2.png"/>
+      <rect id="Rectangle_426" data-name="Rectangle 426" width="1922.811" height="428.88" transform="translate(819.599 11282.524)" fill="url(#linear-gradient-weapon-3)"/>
+      
+    </g>
+  </g>
+</svg>

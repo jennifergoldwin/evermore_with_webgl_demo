@@ -1,0 +1,28 @@
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1139" height="412" viewBox="0 0 1139 412">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 439 491">
+      <image width="439" height="491" xlink:href="/public/assets/monster-svg/monster.png"/>
+    </pattern>
+    <pattern  id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 476 526">
+      <image width="476" height="526" xlink:href="/public/assets/monster-svg/tree-monster.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 467 492">
+      <image width="467" height="492" xlink:href="/public/assets/monster-svg/stone-monster.png"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 574 292">
+      <image width="574" height="292" xlink:href="/public/assets/monster-svg/wolf-monster.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 315 559">
+      <image width="315" height="559" xlink:href="/public/assets/monster-svg/adult-hero.png"/>
+    </pattern>
+  </defs>
+  <g id="Group_1720" data-name="Group 1720" transform="translate(-73 -2294)">
+    <rect id="enemy_armored_zombie" data-name="enemy armored zombie" width="198" height="221" transform="translate(830 2305)" fill="url(#pattern)"/>
+    <rect  id="enemy_tree" data-name="enemy tree" width="253" height="279" transform="translate(959 2340)" fill="url(#pattern-2)"/>
+    <rect id="enemy_stone" data-name="enemy stone" width="252" height="265" transform="translate(640 2354)" fill="url(#pattern-3)"/>
+    <rect id="enemy_zombie_wolf" data-name="enemy zombie wolf" width="305" height="155" transform="translate(810 2535)" fill="url(#pattern-4)"/>
+    <image id="kid_hero" data-name="kid hero" width="188" height="205" transform="translate(312 2405)" xlink:href="/public/assets/monster-svg/child-hero.png"/>
+    <rect id="exclusive_hero" data-name="exclusive hero" width="175" height="310" transform="translate(73 2294)" fill="url(#pattern-5)"/>
+    <image id="teen_hero" data-name="teen hero" width="151" height="290" transform="translate(192 2416)" xlink:href="/public/assets/monster-svg/teen-hero.png"/>
+  </g>
+  </svg>

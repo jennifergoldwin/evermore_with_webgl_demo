@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="644" viewBox="0 0 1920 644">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_250" data-name="Rectangle 250" width="1920" height="644" transform="translate(0 5347)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2c3531" stop-opacity="0.02"/>
+      <stop offset="0.281" stop-color="#2c3531"/>
+      <stop offset="0.527" stop-color="#2c3531" stop-opacity="0.992"/>
+      <stop offset="0.635" stop-color="#2c3531" stop-opacity="0.867"/>
+      <stop offset="1" stop-color="#2c3531" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 743 557">
+      <image width="743" height="557" xlink:href="Mask%20Group%201-image.png"/>
+    </pattern>
+    <pattern id="pattern-2" width="1" height="1" patternTransform="matrix(-1, 0, 0, 1, 1368.323, 0)" viewBox="0 0 684.162 203.46">
+      <use preserveAspectRatio="none" xlink:href="#image-2"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 2446 1786">
+      <image width="2446" height="1786" xlink:href="Mask%20Group%201-image3.png"/>
+    </pattern>
+    <pattern id="pattern-4" width="1" height="1" patternTransform="matrix(1, 0, 0, -1, 0, 988.317)" viewBox="0 0 660.68 494.159">
+      <image preserveAspectRatio="none" width="660.68" height="494.159" xlink:href="Mask%20Group%201-image.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 3014 327">
+      <image width="3014" height="327" xlink:href="Mask%20Group%201-image4.png"/>
+    </pattern>
+    <pattern id="pattern-6" width="1" height="1" viewBox="-720.382 -11.526 1601.151 173.715">
+      <use preserveAspectRatio="none" xlink:href="#image"/>
+    </pattern>
+    <image id="image" preserveAspectRatio="none" width="1601.151" height="173.715" xlink:href="Mask%20Group%201-image4.png"/>
+    <pattern id="pattern-7" width="1" height="1" viewBox="411.098 32.657 1601.151 173.715">
+      <use xlink:href="#image"/>
+    </pattern>
+    <image id="image-2" preserveAspectRatio="none" width="684.162" height="203.46" xlink:href="Mask%20Group%201-image2.png"/>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0 -5347)" clip-path="url(#clip-path)">
+    <g id="Group_1719" data-name="Group 1719" transform="translate(-818.798)">
+      <rect id="blends2" width="1922.811" height="630.045" transform="translate(819.599 7687.082)" fill="url(#linear-gradient)"/>
+      <rect id="blends2-2" data-name="blends2" width="1922.811" height="695.398" transform="translate(819.599 7153.024)" fill="url(#linear-gradient)"/>
+      <g id="Group_1717" data-name="Group 1717" transform="translate(818.798 5427.193)">
+        <rect id="Image_49" data-name="Image 49" width="660.68" height="494.159" transform="translate(0 5.764)" fill="url(#pattern)"/>
+        <use id="Image_50" data-name="Image 50" transform="translate(179.547 224.223) scale(1.282 1.282)" xlink:href="#image-2"/>
+        <rect id="Image_51" data-name="Image 51" width="684.162" height="203.46" transform="translate(1007.843 282.154)" fill="url(#pattern-2)"/>
+        <rect id="Image_52" data-name="Image 52" width="516.689" height="376.215" transform="translate(1478.782 635.573) rotate(-120)" fill="url(#pattern-3)"/>
+        <rect id="Image_49-2" data-name="Image 49" width="660.68" height="494.159" transform="translate(1977.285 499.923) rotate(180)" fill="url(#pattern-4)"/>
+      </g>
+      <use id="Layer_1" data-name="Layer 1" transform="translate(1079.99 5817.37)" xlink:href="#image"/>
+      <text id="_1280x757" data-name="1280x757" transform="translate(2995.653 325.096)" fill="#707070" font-size="28" font-family="ArialMT, Arial"><tspan x="0" y="0">1280x757</tspan></text>
+      <rect id="Layer_1-2" data-name="Layer 1" width="1176.151" height="127.715" transform="translate(1599.99 5863.37)" fill="url(#pattern-5)"/>
+    </g>
+    <rect id="Layer_1-3" data-name="Layer 1" width="1601.151" height="173.715" transform="translate(318.849 5817.37)" fill="url(#pattern-6)"/>
+    <rect id="Layer_1-4" data-name="Layer 1" width="1601.151" height="173.715" transform="translate(-174.809 5817.37)" fill="url(#pattern-7)"/>
+    <use id="Layer_1-5" data-name="Layer 1" transform="translate(-334.809 5817.37)" xlink:href="#image"/>
+  </g>
+</svg>
