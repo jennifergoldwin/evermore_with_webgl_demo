@@ -238,7 +238,9 @@ img{
 .prev-slide::after, .next-slide::after{
     color: white !important;
 }
-
+.prev-slide, .next-slide{
+    top: 40% !important;
+}
 /* .prev-slide::after{
     background: url(/public/assets/hero/arrow-left.png);
     background-color: rgba(255, 255, 255, 0.45);
