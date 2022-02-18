@@ -56,7 +56,7 @@ img{
 }
 /*-----------------HOME-------------------*/
 .bg-landing{
-    min-height: 100vh !important;  
+    min-height: 110vh !important;  
     background: url(/public/assets/bg/home.jpg); 
     /* background: url(/public/assets/webp/home.webp); */
     background-size: cover
@@ -326,7 +326,7 @@ img{
         width: 50%; height: 50%;
     }
     .bg-landing{
-        background-position: 50% 50% !important;
+        background-position: top !important;
     }
 }
 
